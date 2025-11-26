@@ -140,12 +140,6 @@ This project is still in an early stage, but feedback and ideas are welcome:
 
 ---
 
-### 📄 License
-
-Define your license here (MIT, GPL, proprietary, etc.).
-
----
-
 <a id="pt"></a>
 ## 🇵🇹 Português
 
@@ -277,9 +271,3 @@ O projeto ainda está numa fase inicial, mas qualquer feedback ou ideia é bem-v
 
 - Abre uma issue para bugs, sugestões ou pedidos de funcionalidades  
 - Faz fork ao repositório e envia um pull request  
-
----
-
-### 📄 Licença
-
-Define aqui a licença do projeto (MIT, GPL, proprietária, etc.).
