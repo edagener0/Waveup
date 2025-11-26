@@ -14,7 +14,7 @@
     "pricePerKm": 1.19,
     "avgSpeedKnots": 20,
     "maxDistanceNm": 20.0,
-    "image": "/mini.webp",
+    "image": "/images/services/mini.webp",
     "licenseRequired": "Licença Marítima Recreio (até 6m)"
   },
     {
@@ -32,7 +32,7 @@
     "pricePerKm": 1.31,
     "avgSpeedKnots": 25,
     "maxDistanceNm": 20.0,
-    "image": "/adventure.webp",
+    "image": "/images/services/adventure.webp",
     "licenseRequired": "Licença Marítima Recreio (até 6m)"
   },
     {
@@ -50,7 +50,7 @@
     "pricePerKm": 1.1,
     "avgSpeedKnots": 22,
     "maxDistanceNm": 25.0,
-    "image": "/deliver.webp",
+    "image": "/images/services/deliver.webp",
     "licenseRequired": "Licença Marítima Recreio (até 6m)"
   },
   {
@@ -68,7 +68,7 @@
     "pricePerKm": 1.69,
     "avgSpeedKnots": 18,
     "maxDistanceNm": 25.0,
-    "image": "/comfort.webp",
+    "image": "/images/services/comfort.webp",
     "licenseRequired": "Carta de Patrão Local (6-15m)"
   },
   {
@@ -86,7 +86,7 @@
     "pricePerKm": 2.2,
     "avgSpeedKnots": 21,
     "maxDistanceNm": 65.0,
-    "image": "/executive.webp",
+    "image": "/images/services/executive.webp",
     "licenseRequired": "Carta de Patrão Costeiro (até 24m)"
   },
   {
@@ -104,7 +104,7 @@
     "pricePerKm": 3,
     "avgSpeedKnots": 15,
     "maxDistanceNm": 9999.0,
-    "image": "/party.webp",
+    "image": "/images/services/party.webp",
     "licenseRequired": "Carta de Patrão de Alto-Mar"
   }
 ]
